@@ -1,12 +1,12 @@
 {
 	"name": "copypasta",
 	"displayName": "CopyPasta",
-	"description": "We all know that you don't even look at the questions in Stack Overflow. Why wouldn't you just copypasta the first comments code section?",
-	"version": "0.1.1",
-	"publisher": "makman12",
+	"description": "A VSCode extension that allows you to copy paste the code section of the first answer to your programming related question from Stack OverFlow.",
+	"version": "0.1.2",
+	"publisher": "RobinBoers",
 	"icon": "copypasta.png",
 	"repository": {
-		"url": "https://github.com/makman12/CopyPasta.git"
+		"url": "https://github.com/RobinBoers/CopyPasta.git"
 	},
 	"engines": {
 		"vscode": "^1.58.0"

@@ -2,6 +2,8 @@
 
 CopyPasta is a VSCode extension that allows you to copy paste the code section of the first answer to your programming related question from Stack OverFlow.
 
+This is my fork of the original CopyPasta extension by makman12. May conflict if both are installed and enabled at the same time.
+
 ## Usage and features
 
 In your text editor just write what you would normally search on Google, then press 'ctrl+enter' you will get what you want. You don't have to add name of the language you are writing on because it will be automatically added.
