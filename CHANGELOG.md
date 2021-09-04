@@ -1,10 +1,10 @@
-# Change Log
+# Changelog
 
 All notable changes to the "CopyPasta" extension will be documented in this file.
 
-Download here: <https://marketplace.visualstudio.com/items?itemName=makman12.copypasta>
+Download here: <https://marketplace.visualstudio.com/items?itemName=RobinBoers.copypasta>
 
-## [PR from RobinBoers/CopyPasta]
+## [0.1.2]
 
 ### Added
 
@@ -22,10 +22,10 @@ Download here: <https://marketplace.visualstudio.com/items?itemName=makman12.cop
 
 -   VSCode quickstart guide
 
----
-
 ## Missing releases
 
-## [Unreleased]
+Changelog for v0.0.6 / v0.1.1 missing.
+
+## [0.0.5]
 
 -   Initial release
